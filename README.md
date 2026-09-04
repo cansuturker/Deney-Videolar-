@@ -6,7 +6,7 @@
 
 ## Deney Video 2 — Görünüş
 
-<video controls src="https://github.com/cansuturker/Deney-Videolar-/raw/refs/heads/main/github_ready_jestmimik.mp4" width="360"></video>
+<video src="https://github.com/cansuturker/Deney-Videolar-/raw/refs/heads/main/github_ready_jestmimik.mp4" width="360"></video>
 
 ## Deney Video 3 — Jest & Mimik
 
