@@ -2,11 +2,11 @@
 
 ## Deney Video 1 — Doğal
 
-**Videoyu aç:** [deney_video_dogal.mp4](https://github.com/user-attachments/assets/b3989089-7762-4d57-928e-7754a10c3e78)
+**Videoyu aç:** [deney_video_dogal.mp4]()
 
 ## Deney Video 2 — Görünüş
 
-<video controls src="deney_video_gorunus.mp4" width="360"></video>
+<video controls src="github_ready_jestmimik.mp4" width="360"></video>
 
 ## Deney Video 3 — Jest & Mimik
 
