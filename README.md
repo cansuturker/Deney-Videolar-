@@ -2,7 +2,7 @@
 
 ## Deney Video 1 — Doğal
 
-**Videoyu aç:** [deney_video_dogal.mp4](https://raw.githubusercontent.com/cansuturker/Deney-Videolar-/refs/heads/main/deney_video_jest-mimik.mp4)
+**Videoyu aç:** [deney_video_dogal.mp4](https://github.com/user-attachments/assets/34bcaf13-b79b-4793-9029-9b29a37fa015)
 
 ## Deney Video 2 — Görünüş
 
@@ -10,7 +10,7 @@
 
 ## Deney Video 3 — Jest & Mimik
 
-<video src="https://raw.githubusercontent.com/cansuturker/Deney-Videolar-/refs/heads/main/deney_video_jest-mimik.mp4" width="360" controls></video>
+<video src="https://github.com/user-attachments/assets/34bcaf13-b79b-4793-9029-9b29a37fa015" width="360" controls></video>
 
 ## Deney Video 4 — Ses
 
